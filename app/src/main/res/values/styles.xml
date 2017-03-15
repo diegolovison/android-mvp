@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- colorPrimaryLight -->
+        <!--<item name="android:textColor">@color/colorText</item>-->
+
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- colorPrimaryText -->
+        <item name="android:textColorSecondary">@color/colorSecondayText</item>
+        <item name="android:divider">@color/colorDivider</item>
+
+        <!-- default color for input -->
+        <item name="colorControlNormal">#03A9F4</item>
+        <item name="colorControlActivated">#03A9F4</item>
+        <item name="colorControlHighlight">#03A9F4</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Button">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="colorButtonNormal">@color/colorButtonBackgroud</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

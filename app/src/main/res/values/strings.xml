@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Projeto Exemplo</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="visit">Visita</string>
+    <string name="confirm_visit">Confirma a visita?</string>
+    <string name="confirmed_visit">Visita confirmada</string>
+    <string name="synchronized_contact">Contato Sincronizado</string>
+    <string name="existing_contact">Contato Exisitente</string>
+</resources>

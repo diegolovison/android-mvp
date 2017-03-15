@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- material design -->
+    <color name="colorPrimaryDark">#4285f4</color>
+    <color name="colorPrimary">#5E97F6</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorText">#FFFFFF</color>
+
+    <color name="colorAccent">#FF5252</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondayText">#727272</color>
+    <color name="colorDivider">#B6B6B6</color>
+
+    <!-- button -->
+    <color name="colorButtonBackgroud">#4285F4</color>
+    <color name="colorButtonText">#FFFFFF</color>
+
+    <!-- background color -->
+    <color name="background">#FBFBFB</color>
+</resources>
